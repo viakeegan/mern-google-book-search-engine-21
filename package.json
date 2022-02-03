@@ -18,6 +18,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "apollo-server-express": "^3.6.2",
     "dotenv": "^10.0.0",
     "if-env": "^1.0.4",
     "json-web-token": "^3.2.0"
