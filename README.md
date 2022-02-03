@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
