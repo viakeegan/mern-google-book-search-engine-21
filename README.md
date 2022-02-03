@@ -1,2 +1,1 @@
-# mern-google-book-search-engine-21
-Fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
+# Book Search Engine Starter Code
