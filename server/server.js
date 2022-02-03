@@ -21,7 +21,7 @@ async function wait (){
   await server.start()
   server.applyMiddleware({ app });;
 }
-
+wait()
 
 
 app.use(express.urlencoded({ extended: true }));
